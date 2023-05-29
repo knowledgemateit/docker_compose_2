@@ -1,5 +1,7 @@
 # docker_compose_2
 
+https://www.fosstechnix.com/dockerfile-instructions/
+
 yum install docker -y
 
 systemctl start docker
